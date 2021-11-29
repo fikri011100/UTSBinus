@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257691488592",
+    "project_id": "utsbinus",
+    "storage_bucket": "utsbinus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257691488592:android:a3ac83baff2e4fc2a45c55",
+        "android_client_info": {
+          "package_name": "bncc.net.utsbinus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257691488592-4lk1na68dv32htntuv84ana5s7u37osm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrsUVX1yMe6xtr_r9r-jowKDdQSJie-WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257691488592-4lk1na68dv32htntuv84ana5s7u37osm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
